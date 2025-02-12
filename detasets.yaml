@@ -1,0 +1,5 @@
+train: C:/Users/Rohan Kanegaonkar/OneDrive/Desktop/final_mo/frames/images/train
+val: C:/Users/Rohan Kanegaonkar/OneDrive/Desktop/final_mo/frames/images/val
+
+nc: 2  # Number of classes (violence and non-violence)
+names: ['non_violence', 'violence']
